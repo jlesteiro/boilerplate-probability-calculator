@@ -2,7 +2,7 @@ import copy
 import random
 
 # Consider using the modules imported above.
-# DynamicClassAttribute seen from from https://medium.com/@nschairer/python-dynamic-class-attributes-24a89df8da7d
+# dynamic class attributes seen from from https://medium.com/@nschairer/python-dynamic-class-attributes-24a89df8da7d
 
 class Bolas:
     def __init__(self, color, cantidad):
